@@ -4,6 +4,8 @@
 
 A curated collection of **12 interlinked methodologies** — each is a Hermes Agent skill (`SKILL.md` with YAML frontmatter) that any AI agent can load instantly. But this isn't just a list. It's a **knowledge graph** — every skill is mapped to the scenarios it dominates, the people it connects to, and the moments it should (or should not) be used.
 
+**🧠 Includes a ready-to-use agent prompt** — `STRATEGIC-EMAIL-AGENT-PROMPT.md` is a complete system prompt you can give to any AI agent (Hermes, Codex Claude Code, etc.) to turn them into a **Strategic Email Consultant**. The agent first models the situation using EventMath (time-aware strategy), then selects and applies the right methodology from this repo to craft sendable email drafts.
+
 ---
 
 ## 🗺️ SCENARIO MAP — What to Use When
